@@ -144,7 +144,7 @@ status (enum: 'Yes', 'No', 'Maybe')
 ## 👨‍💻 Author
 
 Built with ❤️ by **Shivam Kumar**
-🔗 GitHub: [@yourusername](https://github.com/ShivamSunny26)
+🔗 GitHub: [@Shivam](https://github.com/ShivamSunny26)
 ---
 
 ## ⭐ Contributing
