@@ -143,7 +143,7 @@ status (enum: 'Yes', 'No', 'Maybe')
 
 ## 👨‍💻 Author
 
-Built with ❤️ by **Your Name**
+Built with ❤️ by **Shivam Kumar**
 🔗 GitHub: [@yourusername](https://github.com/ShivamSunny26)
 ---
 
@@ -156,10 +156,3 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 ## 📜 License
 
 This project is licensed under the **MIT License**.
-
-```
-
----
-
-Would you like me to also **add screenshots placeholders (with Markdown `![image]()` tags)** so that once you take real screenshots of your app, you can just drop them in?
-```
